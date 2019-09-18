@@ -1,0 +1,12 @@
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\bin\Debug\WMPlayerTest.exe.config
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\bin\Debug\WMPlayerTest.exe
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\bin\Debug\WMPlayerTest.pdb
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\Interop.WMPLib.dll
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.csproj.ResolveComReference.cache
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.Form1.resources
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.Properties.Resources.resources
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.csproj.GenerateResource.cache
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.exe
+C:\Users\eser.kuru\source\repos\WMPlayerTest\WMPlayerTest\obj\Debug\WMPlayerTest.pdb
